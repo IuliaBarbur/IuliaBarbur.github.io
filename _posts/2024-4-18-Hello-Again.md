@@ -5,7 +5,7 @@ title: How do I do this again?
 
 A former programmer's journey back to knowing what the heck is going on re: all things technical.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/first_post.png)
 
 Outside of my growing interest in the various video games my older brother cycled through, I grew up with a pretty average relationship with technology. As a sophomore studying engineering I enrolled in a 100-level Java course to satisfy a technical elective. At the time, I used my windows desktop computer in my dorm to do a majority of my work, with a chromebook for note taking and browsing around campus. One fateful day just before my final project was due, my motherboard sighed its last breath, and I was left effectively without a usable computer. In a panic, I called my older brother, and ....
 
