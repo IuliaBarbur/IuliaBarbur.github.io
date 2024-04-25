@@ -3,7 +3,7 @@ layout: post
 title: How do I do this again?
 ---
 
-A former programmer's journey back to knowing what the heck is going on re: all things technical.
+A journey back to knowing what the heck is going on re: anything technical.
 
 ![_config.yml]({{ site.baseurl }}/images/first_post.png)
 
